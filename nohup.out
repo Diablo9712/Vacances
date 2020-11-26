@@ -1,0 +1,13 @@
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020-05-05 02:11:08,205 [   1378]   WARN - llij.ide.plugins.PluginManager - EditorConfig not loaded: until build 181.SNAPSHOT < PS-192.7142.41 
+2020-05-05 02:11:08,643 [   1816]   WARN - llij.ide.plugins.PluginManager - EditorConfig not loaded: until build 181.SNAPSHOT < PS-192.7142.41 
+2020-05-05 02:11:08,699 [   1872]   WARN - llij.ide.plugins.PluginManager - XLIFF Support not loaded: until build 173.SNAPSHOT < PS-192.7142.41 
+2020-05-05 02:11:12,090 [   5263]   WARN - s.impl.EditorColorsManagerImpl - Cannot find scheme: VibrantInk from plugin: com.intellij.database 
+2020-05-05 02:11:12,090 [   5263]   WARN - s.impl.EditorColorsManagerImpl - Cannot find scheme: WarmNeon from plugin: com.intellij.database 
+2020-05-05 02:11:12,090 [   5263]   WARN - s.impl.EditorColorsManagerImpl - Cannot find scheme: High сontrast from plugin: com.intellij.database 
+2020-05-05 02:22:57,353 [ 710526]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2020-05-05 02:23:00,841 [ 714014]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 

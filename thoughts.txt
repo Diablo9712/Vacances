@@ -1,0 +1,10 @@
+14/05/2020
+-- where is the user id for the "reservation" stored?
+-- in "reservations" table the priorite id is useless and needs to be removed.
+    because "reservation" has many priorites (4 exactly) and priorite belongs to a single "reservation"
+-- How do we know is a user already has a reservation ?
+    Maybe we can a boolean field, whether reservation si already done
+    Maybe use the status of the reservation, if pending then that's the one, and the user can only has a
+       single reservation pending/
+-- Do not choose the same city twice ? Or is this something that the user should be allowed to do
+
